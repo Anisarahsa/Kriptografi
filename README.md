@@ -6,7 +6,7 @@ Tugas Pertemuan 14 Semester 5
 <img src="plaintext.png" img>
 
    2. Screenshot Pemanggilan Melalui CMD Untuk Enkripsi
-<img src="cmd enkrispi.png" img>
+<img src="cmd enkripsi.png" img>
 
     3. Menampilkan Hasil Enkripsi
 <img src="hasil enkripsi.png" img>
