@@ -1,6 +1,10 @@
 # Kriptografi
 Tugas Pertemuan 14 Semester 5
+
+
                                                        # Coding  XOR Enkripsi & Deskripsi Menggunakan Code Block
+                                                       
+                                                       
                                                        
     1. Screenshot Plaintext                                                   
 <img src="plaintext.png" img>
@@ -11,10 +15,10 @@ Tugas Pertemuan 14 Semester 5
     3. Menampilkan Hasil Enkripsi
 <img src="hasil enkripsi.png" img>
 
-     4. Pemanggilan Melalui CMD untuk Deskripsi
+     4. Pemanggilan Melalui CMD Untuk Deskripsi
  <img src="cmd deskripsi.png" img> 
  
-      5. menampilkan Hasil Deskripsi
+      5. Menampilkan Hasil Deskripsi
 <img src="hasil deskripsi.png" img>
 
 Untuk File Script  Enkripsi dan Deskripsi Berada Di Bawah.
