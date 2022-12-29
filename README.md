@@ -16,3 +16,5 @@ Tugas Pertemuan 14 Semester 5
  
       5. menampilkan Hasil Deskripsi
 <img src="hasil deskripsi.png" img>
+
+<a href=”xor_enkripsi.cpp”> Script Enkripsi</a><br />
